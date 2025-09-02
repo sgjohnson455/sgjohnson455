@@ -1,6 +1,6 @@
 ## Hello, I'm Sara Johnson 👋
 
-🚧 Updated Bio Currently Under Construction 🚧
+🚧 Bio Currently Under Construction 🚧
 
 #
 
