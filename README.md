@@ -19,7 +19,6 @@
 
 ### 💬 Contact me! 
 [<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" height="30"/>](www.linkedin.com/in/sara-johnson455)
-
 [<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30"/>](https://www.figma.com/@sgjohnson455)
 
 Email: sgjohnson455@gmail.com
