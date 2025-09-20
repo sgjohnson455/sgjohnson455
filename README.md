@@ -4,7 +4,7 @@ Growing up, I was very interested in the diversity of the world around me. I gre
 
 While I've always had a love for computers, I recognized my passion for UX and Human-Centered Design in technology when I started learning more about how inaccessible technology can affect people.
 
-My philosophy on software development is that this expanding field is a new crucial pillar in our society and technology should be accessible to every user. 
+My philosophy on software development is that this expanding field is a new crucial pillar in our society and technology should be accessible to every user. In my design process, accessibility is equally as important as things like convenience and creating intuitive interfaces. My experience with empathetic and inclusive design continues to expand as I gain more experience working with diverse userbases and meeting users needs where they are.
 
 Now, as I continue my education at the University of Illinois, I am developing my skills in languages like Swift and React that will directly interact with users at the front end... And want to bring my skills in user interfaces to a company that is equally dedicated to its users.
 
