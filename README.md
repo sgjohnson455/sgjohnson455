@@ -2,6 +2,15 @@
 
 🚧 Bio Currently Under Construction 🚧
 
+Growing up, I was very interested in the diversity of the world around me. I grew up in Chicago, where cultures connect and all kinds of people fill up my community.
+
+While I've always had a love for computers, I recognized my passion for UX and Human-Centered Design in technology when I started learning more about how inaccessible technology can affect people.
+
+My philosophy on software development is that this expanding field is a new crucial pillar in our society and technology should be accessible to every user. 
+
+Now, as I continue my education at the University of Illinois, I am developing my skills in languages like Swift and React that will directly interact with users at the front end... And want to bring my skills in user interfaces to a company that is equally dedicated to its users.
+
+
 #
 
 <sup> ** 🤓 Technical Courses:** </sup><br>
@@ -14,6 +23,7 @@
 <sup> ** 👩🏻‍🎨 Design Courses:** </sup><br>
 <sup>— UI/UX Design </sup><br>
 <sup>— Creative Writing </sup><br>
+
 
 #
 
