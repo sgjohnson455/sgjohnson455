@@ -1,7 +1,5 @@
 ## Hello, I'm Sara Johnson 👋
 
-🚧 Bio Currently Under Construction 🚧
-
 Growing up, I was very interested in the diversity of the world around me. I grew up in Chicago, where cultures connect and all kinds of people fill up my community.
 
 While I've always had a love for computers, I recognized my passion for UX and Human-Centered Design in technology when I started learning more about how inaccessible technology can affect people.
@@ -13,6 +11,13 @@ Now, as I continue my education at the University of Illinois, I am developing m
 
 #
 
+<sup> ** 👩🏻‍🎨 Design Courses:** </sup><br>
+<sup>— Web Design + Development </sup><br>
+<sup>— Unreal Engine Game Dev </sup><br>
+<sup>— UX Design in Action </sup><br>
+<sup>— UI/UX Design </sup><br>
+<sup>— Creative Writing </sup><br>
+
 <sup> ** 🤓 Technical Courses:** </sup><br>
 <sup>— Software Design </sup><br>
 <sup>— Linear Algebra </sup><br>
@@ -20,9 +25,11 @@ Now, as I continue my education at the University of Illinois, I am developing m
 <sup>— Computer Architecture </sup><br>
 <sup>— Data Structures </sup><br>
 
-<sup> ** 👩🏻‍🎨 Design Courses:** </sup><br>
-<sup>— UI/UX Design </sup><br>
-<sup>— Creative Writing </sup><br>
+<sup> ** 👩🏻‍🎨 UX/Design Involvments:** </sup><br>
+<sup>— Creators of Color Association @ UIUC </sup><br>
+<sup>— Design Innovation @ UIUC </sup><br>
+<sup>— Design For America @ UIUC </sup><br>
+<sup>— ACM SigCHI </sup><br>
 
 
 #
