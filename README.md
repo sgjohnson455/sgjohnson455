@@ -1,4 +1,4 @@
-## Hello, I'm Sara Johnson 👋
+# Hello, I'm Sara Johnson 👋
 
 Growing up, I was very interested in the diversity of the world around me. I grew up in Chicago, where cultures connect and all kinds of people fill up my community.
 
