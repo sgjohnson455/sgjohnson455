@@ -29,7 +29,6 @@ Now, as I continue my education at the University of Illinois, I am developing m
 <sup>— Creators of Color Association @ UIUC </sup><br>
 <sup>— Design Innovation @ UIUC </sup><br>
 <sup>— Design For America @ UIUC </sup><br>
-<sup>— ACM SigCHI </sup><br>
 
 
 #
